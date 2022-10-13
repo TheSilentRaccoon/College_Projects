@@ -1,4 +1,3 @@
-# College_Projects
+# Database Design Project
 
-The Following Projects are part of my CV project descriptions where you can see the projects for yourself.
-I did the projects on my own, and in OOP i was time constrained due to the amount of projects we where assigned.
+This Project is to test the ability to be able to create and connect to mysql data base pull, push and remove information from the database using python
