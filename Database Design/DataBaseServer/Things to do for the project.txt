@@ -1,0 +1,23 @@
+Database Design SOFT7022 Project Spec sheet.
+
+1. For the Project you will need docementation:
+A: Full Name, Id, Group
+B: Project Description
+C: Technical issues of software development of a client server application using a high level programming language 
+   using a connection to an external multi-user database e.g. embedded SQL, API/connector, IDE, installers, versions
+D: Code explanation with possible references to code (see item 2 below)
+E: Conclusions/review/evaluation e.g. decisions made and lessons learn. This should also  include a copy of your original (first) plan with a review of changes. 
+F: References: you need two different references for each component used in the application/stack, e.g. to explain your choices and alternatives.
+
+2. Final Code:
+A: Code to include a menu driven single executable application that includes data I/O to DBMS: SQL insert of data input from keyboard,
+   update of data using data input from the keyboard.  A Graphic user interface is not required.  
+B: select (display rows)
+
+3. Declaration of work and Sign off of own work (see sample below) & review CIT plagiarism policy 
+
+4. A demo of the working code, may be virtual via zoom, or via recording.
+
+5. In addition, there may be a test in week 12 to investigate that the project is your own work e.g. asked to explain examine the code; make change to code. 
+
+NB: major risks in this project are the IT unknowns e.g. connection to remote DB, version & compatibility issues (software and use of laptops). 
